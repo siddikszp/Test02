@@ -1,4 +1,5 @@
-#include<iostrem>
+#include<iostrem>//ok
+
 using namespace std;
 
 class Node
